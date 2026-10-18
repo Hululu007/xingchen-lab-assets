@@ -1,0 +1,19 @@
+{
+  "id": "java",
+  "name": "Java 环境",
+  "file": "env-java.zip",
+  "version": "17.0.20",
+  "size": 66186060,
+  "sha256": "38fb0699ce4ff746d302d8dc82985abf6c86384b7755827ff665f35414f4800f",
+  "chunkSize": 8388608,
+  "parts": [
+    "env/chunks/java/p00",
+    "env/chunks/java/p01",
+    "env/chunks/java/p02",
+    "env/chunks/java/p03",
+    "env/chunks/java/p04",
+    "env/chunks/java/p05",
+    "env/chunks/java/p06",
+    "env/chunks/java/p07"
+  ]
+}
