@@ -1,0 +1,17 @@
+{
+  "id": "alist",
+  "name": "alist",
+  "file": "env-alist.zip",
+  "version": "3.63.0",
+  "size": 43917406,
+  "sha256": "5dcacda0d3105188eb142363424d9c35c55f3cfd49875e86996e0ac5e9c840b4",
+  "chunkSize": 8388608,
+  "parts": [
+    "env/chunks/alist/p00",
+    "env/chunks/alist/p01",
+    "env/chunks/alist/p02",
+    "env/chunks/alist/p03",
+    "env/chunks/alist/p04",
+    "env/chunks/alist/p05"
+  ]
+}
