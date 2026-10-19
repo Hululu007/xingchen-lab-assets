@@ -1,17 +1,17 @@
 {
   "id": "alist",
   "name": "alist",
-  "file": "env-alist.zip",
-  "version": "3.63.0",
-  "size": 43917406,
-  "sha256": "5dcacda0d3105188eb142363424d9c35c55f3cfd49875e86996e0ac5e9c840b4",
+  "file": "env-alist-3.65.0.zip",
+  "version": "3.65.0",
+  "size": 42010903,
+  "sha256": "f0c595b42c4c6b9fc71f5a47bcfd3909e7b524c977bf943bd931d06c14096dd8",
   "chunkSize": 8388608,
   "parts": [
-    "env/chunks/alist/p00",
-    "env/chunks/alist/p01",
-    "env/chunks/alist/p02",
-    "env/chunks/alist/p03",
-    "env/chunks/alist/p04",
-    "env/chunks/alist/p05"
+    "env/chunks/alist-3.65.0/p00",
+    "env/chunks/alist-3.65.0/p01",
+    "env/chunks/alist-3.65.0/p02",
+    "env/chunks/alist-3.65.0/p03",
+    "env/chunks/alist-3.65.0/p04",
+    "env/chunks/alist-3.65.0/p05"
   ]
 }
