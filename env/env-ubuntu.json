@@ -1,17 +1,15 @@
 {
   "id": "ubuntu",
   "name": "Ubuntu 环境",
-  "file": "env-ubuntu.zip",
-  "version": "24.04.4",
-  "size": 42256637,
-  "sha256": "300ce5d3574fd5f3158f4e94b9dc5523c4fba9621526cf342c4f040a3f0bf895",
+  "file": "env-ubuntu-24.04.5.zip",
+  "version": "24.04.5",
+  "size": 30183168,
+  "sha256": "f7b46df06eac9a83c6cc15adcc7f2f116f54613327a783d0dad060ec58e38ce0",
   "chunkSize": 8388608,
   "parts": [
-    "env/chunks/ubuntu/p00",
-    "env/chunks/ubuntu/p01",
-    "env/chunks/ubuntu/p02",
-    "env/chunks/ubuntu/p03",
-    "env/chunks/ubuntu/p04",
-    "env/chunks/ubuntu/p05"
+    "env/chunks/ubuntu-24.04.5/p00",
+    "env/chunks/ubuntu-24.04.5/p01",
+    "env/chunks/ubuntu-24.04.5/p02",
+    "env/chunks/ubuntu-24.04.5/p03"
   ]
 }
