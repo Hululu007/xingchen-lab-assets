@@ -1,0 +1,17 @@
+{
+  "id": "ffmpeg",
+  "name": "ffmpeg",
+  "file": "env-ffmpeg-9.0.2.zip",
+  "version": "9.0.2",
+  "size": 42056568,
+  "sha256": "6118b3717cb1532644610db0a3c199eecad2e0ab26f301d9780e884df624e8e0",
+  "chunkSize": 8388608,
+  "parts": [
+    "env/chunks/ffmpeg-9.0.2/p00",
+    "env/chunks/ffmpeg-9.0.2/p01",
+    "env/chunks/ffmpeg-9.0.2/p02",
+    "env/chunks/ffmpeg-9.0.2/p03",
+    "env/chunks/ffmpeg-9.0.2/p04",
+    "env/chunks/ffmpeg-9.0.2/p05"
+  ]
+}
